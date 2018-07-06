@@ -1,0 +1,9 @@
+*.dll
+*.exe
+*.suo
+*.db
+*.opendb
+*.ilk
+*.pdb
+externals
+temp
